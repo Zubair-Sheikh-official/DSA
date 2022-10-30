@@ -31,6 +31,7 @@ int main()
         }
     }
 }
+
 void push()
 {
     int x;
